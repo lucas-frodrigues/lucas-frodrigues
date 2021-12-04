@@ -2,13 +2,12 @@
 
 **About me:**
 
-:computer: I'm Front-End Developer!
-
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
+
 ##
 <div align = "center">
   <a href = "https://github.com/lucas-frodrigues">
@@ -23,7 +22,7 @@
   
 ##
 <div> 
-  <a href = "mailto:lucas.datascience@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
+  <a href = "mailto:contatolucasfrodrigues@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasfrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
