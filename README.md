@@ -12,7 +12,7 @@
 ##
 <div align = "center">
   <a href = "https://github.com/lucas-frodrigues">
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=lucas-frodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=lucas-frodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-frodrigues&layout=compact&theme=dark&langs_count=7"/>  
 </div>
 <div style="display: inline_block"><br>
