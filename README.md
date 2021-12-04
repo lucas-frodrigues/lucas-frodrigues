@@ -13,7 +13,7 @@
 <div align = "center">
   <a href = "https://github.com/lucas-frodrigues">
   <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=lucas-frodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-frodrigues&layout=compact&theme=dark&langs_count=7"/>  
+  <img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-frodrigues&layout=compact&theme=dark&langs_count=7"/>  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
