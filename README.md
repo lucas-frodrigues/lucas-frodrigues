@@ -1,12 +1,14 @@
 ## Hello, World!! 👋 Welcome to my profile.
 
-**About me:**
+🔭 I'm a front developer in progress.
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning HTML5, CSS and JavaScript
 
 :outbox_tray: 2021 Goals: Create news projects and learning more every day.
+
+😄 Pronouns: ele/dele/he/his
 
 ##
 <div align = "center">
@@ -16,8 +18,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Lucas-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Lucas-Numpy"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>  
   
 ##
